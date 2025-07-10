@@ -46,7 +46,7 @@ Includes 10 predefined users with sample balances.
 ## 🔗 Developer Profiles
 
 - GitHub: [YourGitHubUsername](https://github.com/SaiKumarchinna19)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/saikumar-bodepelly-9037b3243)
 
 ---
 
