@@ -5,6 +5,7 @@ A simple command-line based Bank Management System built using **Python** and **
 
 ## 📂 Project Structure
 
+
 - \`Bank.py\` / \`Bank1.py\`: Contains the \`Bank\` class with sample customer data.
 - \`main.py\`: Creates SQLite database and inserts initial records.
 - \`main1.py\`: Command-line interface for user operations like:
