@@ -12,7 +12,6 @@ A simple command-line based Bank Management System built using **Python** and **
   - Withdraw
   - Deposit
   - Transfer
-
 ## 🛠 Technologies Used
 
 - Python 3
