@@ -1,6 +1,4 @@
 # 🏦 Bank Management System 
-
-
 A simple command-line based Bank Management System built using **Python** and **SQLite**.
 
 ## 📂 Project Structure
