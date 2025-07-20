@@ -11,7 +11,6 @@ A simple command-line based Bank Management System built using **Python** and **
   - Deposit
   - Transfer
 ## 🛠 Technologies Used
-
 - Python 3
 - SQLite3
 
