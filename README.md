@@ -14,7 +14,6 @@ A simple command-line based Bank Management System built using **Python** and **
 - Python 3
 - SQLite3
 ## 📌 Features
-
 - Create a new bank account
 - Generate or update PIN securely
 - Balance inquiry using account number and PIN
