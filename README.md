@@ -13,7 +13,6 @@ A simple command-line based Bank Management System built using **Python** and **
 ## 🛠 Technologies Used
 - Python 3
 - SQLite3
-
 ## 📌 Features
 
 - Create a new bank account
