@@ -20,7 +20,6 @@ A simple command-line based Bank Management System built using **Python** and **
 - Deposit and withdrawal with validations
 - Account-to-account transfers
 ## 🧪 How to Run
-
 1. Run \`main.py\` to create the table and populate data:
    \`\`\`bash
    python main.py
