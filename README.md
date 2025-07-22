@@ -32,7 +32,6 @@ A simple command-line based Bank Management System built using **Python** and **
 
 ## 🧠 Sample Data
 Includes 10 predefined users with sample balances.
-
 ## 🔗 Developer Profiles
 
 - GitHub: [YourGitHubUsername](https://github.com/SaiKumarchinna19)
