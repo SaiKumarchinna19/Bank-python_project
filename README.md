@@ -19,7 +19,6 @@ A simple command-line based Bank Management System built using **Python** and **
 - Balance inquiry using account number and PIN
 - Deposit and withdrawal with validations
 - Account-to-account transfers
-
 ## 🧪 How to Run
 
 1. Run \`main.py\` to create the table and populate data:
