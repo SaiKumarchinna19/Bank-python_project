@@ -11,7 +11,7 @@ class Bank:
         self.gender=gender
         self.pin_number=pin_number
 obj=Bank("SAI",1,1717515610,"saivngs",4000,"thorrur",9951880148,"chinnasaikumar@gmail.com","male",1919)
-obj1=Bank("ram",2,1717515611,"current",5000,"peddavaagra",90823789798,"vamshisaikumar@gmail.com","female",2919)
+obj1=Bank("RAM",2,1717515611,"current",5000,"peddavaagra",90823789798,"vamshisaikumar@gmail.com","female",2919)
 obj2=Bank("kalyan",3,1717515612,"saivngs",6000,"thorrur",9951440148,"mahisaikumar@gmail.com","male",3919)
 obj3=Bank("chinni",4,1717515613,"current",7000,"thorrur",9951880148,"chinnasaikumar@gmail.com","male",4919)
 obj4=Bank("poojitha",5,1717515614,"saivngs",8000,"thorrur",995580148,"chinnasaikumar@gmail.com","male",5919)
@@ -25,5 +25,6 @@ l=[obj,obj1,obj2,obj3,obj4,obj5,obj6,obj7,obj8,obj9]
 # for i in l:
 #     # print(i.Name)
 #     print(i.id)
+
 
 
