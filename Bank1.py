@@ -15,7 +15,7 @@ obj1=Bank1("RAM",2,1717515611,"current",5000,"peddavaagra",90823789798,"vamshisa
 obj2=Bank1("KALYAN",3,1717515612,"saivngs",6000,"thorrur",9951440148,"mahisaikumar@gmail.com","male",3919)
 obj3=Bank1("CHINNI",4,1717515613,"current",7000,"thorrur",9951880148,"chinnasaikumar@gmail.com","male",4919)
 obj4=Bank1("POOJITHA",5,1717515614,"saivngs",8000,"thorrur",995580148,"chinnasaikumar@gmail.com","male",5919)
-obj5=Bank1("nagaraju",6,1717515615,"current",9000,"hyd",9957780148,"chinnasaikumar@gmail.com","male",6919)
+obj5=Bank1("NAGARAJU",6,1717515615,"current",9000,"hyd",9957780148,"chinnasaikumar@gmail.com","male",6919)
 obj6=Bank1("ramesh",7,1717515616,"saivngs",10000,"thorrur",995145450148,"chinnasaikumar@gmail.com","male",8919)
 obj7=Bank1("mallik",8,1717515617,"current",11000,"punjagutta",99518756148,"chinnasaikumar@gmail.com","male",9919)
 obj8=Bank1("mahesh",9,1717515618,"saivngs",12000,"srnagr",99518453148,"chinnasaikumar@gmail.com","male",7919)
@@ -25,6 +25,7 @@ l=[obj,obj1,obj2,obj3,obj4,obj5,obj6,obj7,obj8,obj9]
 # for i in l:
 #     # print(i.Name)
 #     print(i.id)
+
 
 
 
