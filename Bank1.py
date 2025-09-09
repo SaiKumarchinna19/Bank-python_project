@@ -21,11 +21,12 @@ obj7=Bank1("MALLIK ",8,1717515617,"current",11000,"punjagutta",99518756148,"chin
 obj8=Bank1("MAHESH",9,1717515618,"saivngs",12000,"srnagr",99518453148,"chinnasaikumar@gmail.com","male",7919)
 obj9=Bank1("KARAN",10,1717515619,"current",13000,"thorrur",9951530148,"chinnasaikumar@gmail.com","male",3919)
 l=[obj,obj1,obj2,obj3,obj4,obj5,obj6,obj7,obj8,obj9]
-# print(l)
 
+# print(l)
 # for i in l:
 #     # print(i.Name)
 #     print(i.id)
+
 
 
 
