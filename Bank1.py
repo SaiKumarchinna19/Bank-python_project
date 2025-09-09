@@ -1,4 +1,5 @@
 class Bank1:
+    
     def __init__(self,Name,id,account_number,account_type,balance,branch,phone_number,email_id,gender,pin_number):
         self.Name=Name
         self.id=id
@@ -26,6 +27,7 @@ l=[obj,obj1,obj2,obj3,obj4,obj5,obj6,obj7,obj8,obj9]
 # for i in l:
 #     # print(i.Name)
 #     print(i.id)
+
 
 
 
